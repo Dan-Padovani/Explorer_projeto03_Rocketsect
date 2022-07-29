@@ -1,6 +1,6 @@
-# Explorer_Desafio_Treine.me
+# Explorer_Desafio_Rocketsect
 
-## A simple landing page to practice semantic HTML
+## A simple landing page to training and practice more HTML and CSS.
 
 <p align="center">
 	<a href="#computer-about">About</a> •
@@ -13,12 +13,15 @@
 
 ### :computer: About
 
-In this challenge, it was requested to create a simple desktop landing page, aplying the basic concepts of HTML an CSS and using semantic and accessibility HTML elements, that's the reason we don't have any responsive here.
+In this challenge, it was requested to create a simple desktop landing page, aplying the basics concepts of HTML an CSS, semantic and accessibility HTML elements, everything we studied in project 01 and 02.
 
 I had the oportunity to practice and study:
+*	Customize fonts with CSS;
+*	The basic of Figma and how we use to build a web aplication;
+*	Paddings and position;
 * Semantic and accessibility HTML;
 *	Concept of CSS Box Model and Flexbox;
-* Basic of DevTools;
+* Basic of DevTools.
 
 
 ---
@@ -37,7 +40,7 @@ I had the oportunity to practice and study:
 
 Just access the link bellow:
 
-<a href="https://dan-padovani.github.io/Explorer_projeto02_treine.me/" target="_blank">Treine.me</a>
+<a href="https://dan-padovani.github.io/Explorer_projeto03_Rocketsect/" target="_blank">Rocket.sect - seus dados protegidos</a>
 
 ---
 
